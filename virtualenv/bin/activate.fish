@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/kumarlaxmikant/Desktop/Visual Studio/Stock-Prediction-System-Application/virtualenv"
+set -gx VIRTUAL_ENV "/home/tourist/Desktop/-Stock-market-Prediction-with-Machine-Learning-Django/virtualenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

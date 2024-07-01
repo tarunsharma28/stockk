@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/kumarlaxmikant/Desktop/Visual Studio/Stock-Prediction-System-Application/virtualenv"
+setenv VIRTUAL_ENV "/home/tourist/Desktop/-Stock-market-Prediction-with-Machine-Learning-Django/virtualenv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

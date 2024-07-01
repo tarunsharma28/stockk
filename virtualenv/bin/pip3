@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/kumarlaxmikant/Desktop/Visual Studio/Stock-Prediction-System-Application/virtualenv/bin/python3" "$0" "$@"
-' '''
+#!/home/tourist/Desktop/-Stock-market-Prediction-with-Machine-Learning-Django/virtualenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
